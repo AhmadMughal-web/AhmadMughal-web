@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadMughal-web&layout=compact&theme=dark)
 ---
-[![](https://visitcount.itsvg.in/api?id=AhmadMughal-web &icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AhmadMughal-web&icon=0&color=0" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
