@@ -48,15 +48,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadMughal-web&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AhmadMughal-web&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmadMughal-web&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=AhmadMughal-web&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadMughal-web&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AhmadMughal-web&layout=compact&theme=tokyonight" />
 </p>
 
 
@@ -78,4 +78,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AhmadMughal-web/AhmadMughal-web/output/github-contribution-grid-snake.svg" />
 </p>
+
 
