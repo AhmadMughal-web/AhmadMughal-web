@@ -2,29 +2,74 @@
 
 <!--
 **AhmadMughal-web/AhmadMughal-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Glass Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Muhammad%20Ahmad&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+JavaScript;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-💻 Frontend Developer | Problem Solver  <br>🚀 Building modern, responsive and user-friendly websites  <br>🌱 Currently exploring JavaScript, React & UI/UX  <br>🎯 Goal: Become a professional web developer
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=AhmadMughal-web&show_icons=true&theme=dark)
-
-![Streak](https://streak-stats.demolab.com/?user=AhmadMughal-web&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadMughal-web&layout=compact&theme=dark)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadMughal-web&layout=compact&theme=dark)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 👨‍💻 About Me
+
+<div align="center">
+
+💻 Frontend Developer  
+🚀 Building modern, responsive & user-friendly websites  
+🌱 Currently learning React & advanced JavaScript  
+🎯 Goal: Become a professional web developer  
+
+</div>
+
+---
+
+## 🖥️ Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-333333.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap-8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmadMughal-web&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadMughal-web&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AhmadMughal-web&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/AhmadMughal-web/AhmadMughal-web/blob/output/github-contribution-grid-snake.svg"/>
+</p>
