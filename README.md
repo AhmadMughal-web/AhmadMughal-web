@@ -46,7 +46,6 @@
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://stats-github-readme.vercel.app/api?username=AhmadMughal-web&show_icons=true&theme=tokyonight" />
