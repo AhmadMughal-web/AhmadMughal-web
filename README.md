@@ -18,10 +18,11 @@
 
 <div align="center">
 
-💻 Frontend Developer  
-🚀 Building modern, responsive & user-friendly websites  
-🌱 Currently learning React & advanced JavaScript  
-🎯 Goal: Become a professional web developer  
+💻 Frontend & Backend Developer  
+🚀 Building modern, responsive & scalable web applications  
+⚡ Skilled in creating clean UI and powerful backend logic  
+🌱 Currently learning React, Node.js & advanced JavaScript  
+🎯 Goal: Become a professional Full Stack Web Developer  
 
 </div>
 
