@@ -111,10 +111,10 @@
 
 ---
 
-## 📊 Coding Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AhmadMughal-web&theme=radical&title_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=B8860B" />
+  <img src="https://github-trophies.vercel.app/?username=AhmadMughal-web&theme=gold&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </p>
 
 ---
