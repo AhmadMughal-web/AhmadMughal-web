@@ -1,6 +1,6 @@
 <!-- Royal Gold & Black Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:B8860B,100:FFD700&height=220&section=header&text=Muhammad%20Ahmad&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=58&descColor=FFC107" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:B8860B,100:FFD700&height=220&section=header&text=Muhammad%20Ahmad&fontSize=42&fontColor=0D0D0D&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=58&descColor=1A1A1A" />
 </p>
 
 <!-- Typing Animation — Gold Theme -->
