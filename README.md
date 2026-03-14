@@ -114,7 +114,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmadMughal-web&theme=gold&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=AhmadMughal-web&theme=gold&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </p>
 
 ---
@@ -130,6 +130,9 @@
   </a>
   <a href="https://linkedin.com/in/ahmadmughal-web">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/923249425513">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
