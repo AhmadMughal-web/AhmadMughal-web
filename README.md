@@ -111,10 +111,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Coding Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmadMughal-web&theme=gold&background=0D0D0D&border=B8860B&ring=FFD700&fire=FFC107&currStreakLabel=FFD700&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AhmadMughal-web&theme=radical&title_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=B8860B" />
 </p>
 
 ---
