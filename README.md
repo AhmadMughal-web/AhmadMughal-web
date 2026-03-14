@@ -26,24 +26,21 @@
 <table>
 <tr>
 <td width="50%">
-```javascript
-const developer = {
-  name: "Muhammad Ahmad",
-  role: "Full Stack Developer",
-  location: "Pakistan 🇵🇰",
-  passion: "Building things that matter",
 
-  currentlyBuilding: [
-    "Scalable REST APIs",
-    "Modern React UIs",
-    "AI-Integrated Apps"
-  ],
+**👤 Who I Am:**
 
-  goal: "Ship products that solve real problems",
+🧑‍💻 Name: Muhammad Ahmad
+🌍 Location: Pakistan 🇵🇰
+❤️ Passion: Building things that matter
 
-  funFact: "I debug with coffee ☕ and deploy with confidence 🚀"
-};
-```
+**🚀 Currently Building:**
+- Scalable REST APIs
+- Modern React UIs
+- AI-Integrated Apps
+
+🎯 Goal: Ship products that solve real problems
+
+☕ Fun Fact: I debug with coffee and deploy with confidence!
 
 </td>
 <td width="50%">
