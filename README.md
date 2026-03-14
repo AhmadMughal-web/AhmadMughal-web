@@ -138,10 +138,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AhmadMughal-web/AhmadMughal-web/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadMughal-web&bg_color=0D0D0D&color=FFD700&line=B8860B&point=FFD700&area=true&area_color=B8860B&hide_border=false&border_color=B8860B&title_color=FFD700" />
 </p>
 
 <!-- Royal Gold & Black Footer -->
