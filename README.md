@@ -114,7 +114,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=AhmadMughal-web&theme=gold&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmadMughal-web&no-frame=true&no-bg=true&margin-w=10&column=7&theme=gold&title_color=FFD700&text_color=FFD700&icon_color=B8860B&bg_color=0D0D0D" />
 </p>
 
 ---
