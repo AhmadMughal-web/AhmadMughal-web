@@ -111,10 +111,10 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadMughal-web&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFC107&text_color=ffffff&bg_color=0D0D0D&border_color=B8860B&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
+  <img src="https://streak-stats.demolab.com?user=AhmadMughal-web&theme=gold&background=0D0D0D&border=B8860B&ring=FFD700&fire=FFC107&currStreakLabel=FFD700&hide_border=false" />
 </p>
 
 ---
