@@ -110,11 +110,6 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies
-
-<img src="https://github-trophies.vercel.app/?username=AhmadMughal-web&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
----
 
 ## 🌐 Portfolio & Contact
 
@@ -139,6 +134,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadMughal-web&bg_color=0D0D0D&color=FFD700&line=B8860B&point=FFD700&area=true&area_color=B8860B&hide_border=false&border_color=B8860B&title_color=FFD700" />
+</p>
+
+---
+
+## 😂 Programmer Joke of the Day
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=0D0D0D&borderColor=B8860B&qColor=FFD700&aColor=FFC107&codeColor=FFD700" />
 </p>
 
 <!-- Royal Gold & Black Footer -->
