@@ -110,8 +110,9 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
 
-<img src="https://github-trophies.vercel.app/?username=AhmadMughal-web&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-trophies.vercel.app/?username=AhmadMughal-web&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 ---
 
