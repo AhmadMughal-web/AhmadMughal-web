@@ -56,7 +56,7 @@
 **📌 Currently:**
 - 🌱 Deepening React & Node.js skills
 - 🤖 Exploring AI-powered web apps
-- 🎯 Open to **internships & freelance projects**
+- 🎯 Open to **Work & freelance projects**
 
 **💬 Ask me about:**
 `React` `Node.js` `Express` `MongoDB` `REST APIs`
