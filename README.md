@@ -138,10 +138,10 @@
 
 ---
 
-## 😂 Programmer Joke of the Day
+## ⏱️ Coding Time
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=0D0D0D&borderColor=B8860B&qColor=FFD700&aColor=FFC107&codeColor=FFD700" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AhmadMughal-web&theme=radical&title_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=B8860B&layout=compact" />
 </p>
 
 <!-- Royal Gold & Black Footer -->
