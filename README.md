@@ -83,8 +83,8 @@
 ---
 
 ## 🖥️ Tech Stack
-
 <p align="center">
+
 <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-333333.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -95,14 +95,19 @@
 <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/socket.io-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/groq_api-F55036.svg?style=for-the-badge&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/github_copilot-000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/chatgpt-74aa9c.svg?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/claude_ai-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/github_copilot-000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Integration-FF6F00.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
-<img src="https://img.shields.io/badge/full_stack-000000.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongodb_atlas-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 </p>
 
 ---
@@ -122,10 +127,10 @@
 
 ## 🌐 Portfolio & Contact
 <p align="center">
-  <a href="https://ahmad-ai-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Now-FFD700?style=for-the-badge&logo=netlify&logoColor=black"/>
+  <a href="https://ahmad-ai-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Now-FFD700?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
-  <a href="mailto:ahmadmughalweb@gmail.com">
+  <a href="mailto:ahmadmuhgalweb@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-B8860B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/ahmadmughal-web">
@@ -135,7 +140,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
----
 
 ## 📈 Contribution Graph
 
