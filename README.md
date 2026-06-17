@@ -64,7 +64,7 @@
 - 🤖 Building AI-integrated full-stack products
 - 📡 Deepening expertise in real-time systems & WebSockets
 - 🎯 **Open to Full Stack / Frontend / AI Developer roles**
-- 💼 Available for freelance projects
+- 💼 Available for full time role & freelance projects
 
 **💬 Ask me about:**
 `React.js` `Node.js` `Express.js` `MongoDB` `Socket.io`
