@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### 👑 Full Stack Developer | Problem Solver | AI Enthusiast
+### ⚡ Full Stack Developer · AI-Integrated Web Apps · Open to Work
 
 </div>
 
@@ -29,37 +29,46 @@
 
 **👤 Who I Am:**
 
-🧑‍💻 Name: Muhammad Ahmad
-🌍 Location: Pakistan 🇵🇰
-❤️ Passion: Building things that matter
+🧑‍💻 **Muhammad Ahmad** — Self-taught Full Stack Developer from Pakistan 🇵🇰
 
-**🚀 Currently Building:**
-- Scalable REST APIs
-- Modern React UIs
-- AI-Integrated Apps
+🚀 **7 live, production-grade projects** — not tutorials, not demos. Real apps, deployed, running.
 
-🎯 Goal: Ship products that solve real problems
+🤖 **AI is not a buzzword for me** — I've already shipped Groq API into production. Live chatbot. Live career builder. Real users.
 
-☕ Fun Fact: I debug with coffee and deploy with confidence!
+🧠 Pre-Medical → Full Stack Developer in under 9 months. No bootcamp. No shortcuts. Pure obsession.
+
+🎯 **Goal:** Build AI-integrated products that solve real problems and scale.
+
+**🔥 What I've Shipped:**
+- 🔵 **PingUp** — Real-time social platform (Socket.io, JWT, MongoDB)
+- 🟣 **NexusAI** — AI resume & career builder (Groq API, <5s output)
+- 🟡 **AI Portfolio** — Live AI chatbot answering recruiters 24/7
+- 🟢 **Al Ghani** — Real client bilingual healthcare platform (EN/UR)
 
 </td>
 <td width="50%">
 
-**🔥 What I Bring to the Table:**
+**⚡ What I Bring to the Table:**
 
-✦ Clean, maintainable & scalable code
-✦ Full Stack expertise — Frontend to Backend
-✦ REST API design & MongoDB architecture
-✦ AI tools integration (ChatGPT, Claude, Copilot)
-✦ Fast learner — I ship, then improve
+✦ **AI-Native** — Groq API in production, prompt engineering, LLM output structuring
 
-**📌 Currently:**
-- 🌱 Deepening React & Node.js skills
-- 🤖 Exploring AI-powered web apps
-- 🎯 Open to **Work & freelance projects**
+✦ **Full Pipeline** — React UI → Express API → MongoDB → Render/Netlify. I own it all.
+
+✦ **Real Client Delivery** — Built & shipped for an actual client (Al Ghani Healthcare)
+
+✦ **Security-First** — JWT auth, API proxy architecture, zero security incidents
+
+✦ **Speed** — Zero to 7 deployed apps in 9 months. Fast learner is an understatement.
+
+**📌 Right Now:**
+- 🤖 Building AI-integrated full-stack products
+- 📡 Deepening expertise in real-time systems & WebSockets
+- 🎯 **Open to Full Stack / Frontend / AI Developer roles**
+- 💼 Available for freelance projects
 
 **💬 Ask me about:**
-`React` `Node.js` `Express` `MongoDB` `REST APIs`
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io`
+`Groq API` `JWT` `REST APIs` `Render` `Netlify`
 
 </td>
 </tr>
@@ -67,7 +76,7 @@
 
 <div align="center">
 
-> *"I don't just write code — I build experiences that users love and businesses trust."*
+> *"While others are learning about AI — I'm already shipping it to production."*
 
 </div>
 
@@ -112,12 +121,11 @@
 ---
 
 ## 🌐 Portfolio & Contact
-
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-FFD700?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <a href="https://ahmad-ai-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Now-FFD700?style=for-the-badge&logo=netlify&logoColor=black"/>
   </a>
-  <a href="mailto:ahmadkhadim238@gmail.com">
+  <a href="mailto:ahmadmughalweb@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-B8860B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/ahmadmughal-web">
@@ -127,7 +135,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ## 📈 Contribution Graph
