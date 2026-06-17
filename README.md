@@ -1,11 +1,11 @@
 <!-- Royal Gold & Black Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:B8860B,100:FFD700&height=220&section=header&text=Muhammad%20Ahmad&fontSize=42&fontColor=0D0D0D&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=58&descColor=1A1A1A" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:B8860B,100:FFD700&height=220&section=header&text=Muhammad%20Ahmad&fontSize=42&fontColor=0D0D0D&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder&descSize=20&descAlignY=58&descColor=1A1A1A" />
 </p>
 
 <!-- Typing Animation — Gold Theme -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&height=60&lines=👑+Full+Stack+Developer;⚡+Building+Scalable+Web+Apps;🤖+AI+Tools+Integration+Expert;💻+React+%7C+Node.js+%7C+MongoDB;🚀+Turning+Ideas+Into+Reality;🔥+Clean+Code+%7C+Powerful+Logic;🎯+Open+To+Work+%26+Collaborate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&height=60&lines=👑+Full+Stack+Developer;⚡+Building+Scalable+Web+Apps;🤖+Groq+API+%7C+AI+in+Production ;🔵+PingUp+%7C+NexusAI+%7C+AI+Portfolio;💻+React+%7C+Node.js+%7C+MongoDB;🚀+Turning+Ideas+Into+Reality;🔥+Clean+Code+%7C+Powerful+Logic;🎯+Open+To+Work+%26+Collaborate" />
 </p>
 
 <p align="center">
