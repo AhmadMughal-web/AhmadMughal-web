@@ -5,7 +5,7 @@
 
 <!-- Typing Animation — Gold Theme -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&height=60&lines=👑+Full+Stack+Developer;⚡+Building+Scalable+Web+Apps;🤖+Groq+API+%7C+AI+in+Production ;🔵+PingUp+%7C+NexusAI+%7C+AI+Portfolio;💻+React+%7C+Node.js+%7C+MongoDB;🚀+Turning+Ideas+Into+Reality;🔥+Clean+Code+%7C+Powerful+Logic;🎯+Open+To+Work+%26+Collaborate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&height=60&lines=👑+Full+Stack+Developer;⚡+Building+Scalable+Web+Apps;🤖+Groq+API+%7C+AI+in+Production;🔵+PingUp+%7C+NexusAI+%7C+AI+Portfolio;💻+React+%7C+Node.js+%7C+MongoDB;🚀+Turning+Ideas+Into+Reality;🔥+Clean+Code+%7C+Powerful+Logic;🎯+Open+To+Work+%26+Collaborate" />
 </p>
 
 <p align="center">
