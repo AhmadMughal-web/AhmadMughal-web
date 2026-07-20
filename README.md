@@ -141,19 +141,6 @@
   </a>
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadMughal-web&bg_color=0D0D0D&color=FFD700&line=B8860B&point=FFD700&area=true&area_color=B8860B&hide_border=false&border_color=B8860B&title_color=FFD700" />
-</p>
-
----
-
-## ⏱️ Coding Time
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmadmughalweb&theme=radical&title_color=FFD700&text_color=ffffff&bg_color=0D0D0D&border_color=B8860B&layout=compact" />
-</p>
 <!-- Royal Gold & Black Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:B8860B,100:0D0D0D&height=120&section=footer" />
