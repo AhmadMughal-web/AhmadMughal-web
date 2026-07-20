@@ -127,7 +127,7 @@
 
 ## 🌐 Portfolio & Contact
 <p align="center">
-  <a href="https://ahmad-ai-portfolio.netlify.app" target="_blank">
+  <a href="https://devaura-ai-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Now-FFD700?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
   <a href="mailto:ahmadmuhgalweb@gmail.com">
